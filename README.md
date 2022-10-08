@@ -1,3 +1,9 @@
+
+![Amazon Main](https://user-images.githubusercontent.com/79242952/194709004-50420afd-af0b-4dfc-8b30-a6fca03d0c19.PNG)
+![Amazon 2](https://user-images.githubusercontent.com/79242952/194709015-9b417bcf-fb00-4656-8581-af3e0a26f6e9.PNG)
+![Amazon 3](https://user-images.githubusercontent.com/79242952/194709016-a49c68cb-15bb-46bf-b107-0001b2e97ea1.PNG)
+![Amazon 4](https://user-images.githubusercontent.com/79242952/194709018-dfd4ed13-f61c-4b79-a061-8dc90b40a4c2.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
